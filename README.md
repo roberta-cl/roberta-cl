@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/Ou9wWqp.png" width="555px">
+  <img src="https://i.imgur.com/emdUAoJ.png" width="555px">
   <br>
   
   <img height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
